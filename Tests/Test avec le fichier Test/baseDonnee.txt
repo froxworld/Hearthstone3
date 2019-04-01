@@ -1,0 +1,54 @@
+Nom : PowerWord:Shield |  16
+Nom : AzureDrake |  11 |  50
+Nom : ShadeofNaxxramas |  52
+Nom : ExcessMana |  69
+Nom : Avenge |  54 |  63
+Nom : BlackwingCorruptor |  9
+Nom : HauntedCreeper |  21 |  28 |  29
+Nom : TwilightWhelp |  1
+Nom : WildPyromancer |  15
+Nom : CabalShadowPriest |  20
+Nom : AnimalCompanion |  24
+Nom : KnifeJuggler |  44
+Nom : Dr.Boom |  48
+Nom : NobleSacrifice |  57 |  64
+Nom : Innervate |  47 |  51
+Nom : QuickShot |  41
+Nom : DireWolfAlpha |  14
+Nom : TirionFordring |  67
+Nom : MortalCoil |  4 |  13
+Nom : FreezingTrap |  40
+Nom : PilotedShredder |  49
+Nom : KillCommand |  34
+Nom : LeperGnome |  26
+Nom : ForceofNature |  66
+Nom : Repentance |  56
+Nom : KeeperoftheGrove |  70
+Nom : Glaivezooka |  38
+Nom : WildGrowth |  45 |  68
+Nom : MusterforBattle |  46 |  60
+Nom : Coghammer |  65
+Nom : AbusiveSergeant |  3 |  12
+Nom : Velen'sChosen |  17
+Nom : FlameImp |  19
+Nom : Swipe |  61 |  62
+Nom : EaglehornBow |  32 |  36
+Nom : Imp-losion |  10
+Nom : MysteriousChallenger |  53
+Nom : CompetitiveSpirit |  55
+Nom : MadScientist |  23 |  33 |  35
+Nom : DarkCultist |  5 |  7
+Nom : ExplosiveTrap |  25
+Nom : PowerOverwhelming |  6
+Nom : ArgentHorserider |  37
+Nom : AncientofLore |  58
+Nom : Dispel |  71
+Nom : ImpGangBoss |  8 |  18
+Nom : Secretkeeper |  42
+Nom : IronbeakOwl |  27 |  30
+Nom : NerubianEgg |  2
+Nom : King'sElekk |  22
+Nom : BearTrap |  39
+Nom : Redemption |  59
+Nom : DarnassusAspirant |  43
+Nom : Loatheb |  31
